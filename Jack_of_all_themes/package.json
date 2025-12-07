@@ -1,0 +1,17 @@
+{
+  "name": "Jack-Of-all-Themes",
+  "displayName": "Jack Of all Themes",
+  "description": "A dark theme for Aseprite, based on Subtle Dark Theme , Aseprite 95 , 1Bit Aseprite etc., I forgot which ones I used lol :D",
+  "version": "1.3",
+  "author": { "name": "Arch_user_202", "email": "", "url": "https://github.com/Archuser202" },
+  "publisher": "aseprite",
+  "license": "GPL-3.0 license",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "jack-dark", "path": "." }
+    ]
+  }
+}
